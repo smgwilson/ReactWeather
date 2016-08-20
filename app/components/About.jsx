@@ -6,7 +6,6 @@ var About = () => {
         <h3>About</h3>
         <p>Welcome to the About page!</p>
     </div>
-
   );
 };
 
